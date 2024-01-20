@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rkemon94" target="blank"><img src="https://img.shields.io/twitter/follow/rkemon94?logo=twitter&style=for-the-badge" alt="rkemon94" /></a> </p>
 
-- 🔭 I’m currently working on [Vehicle Rest Api]([https://github.com/Emon-Khan/Bangking-Management-System](https://github.com/Emon-Khan/VehicleRestApi/tree/Release_1))
+- 🔭 I’m currently working on [Vehicle Rest Api](https://github.com/Emon-Khan/VehicleRestApi/tree/Release_1)
 
 - 🌱 I’m currently learning **Microservices Architechures**
 
